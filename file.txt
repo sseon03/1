@@ -4,3 +4,4 @@ Add feature C
 Add feature D
 Add feature E
 Add feature F
+Add feature G
