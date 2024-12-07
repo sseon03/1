@@ -2,3 +2,4 @@ Initial commit
 Add feature B
 Add feature C
 Add feature D
+Add feature E
